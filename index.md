@@ -1,10 +1,10 @@
-![EQuran.id](https://raw.githubusercontent.com/equran/equran-api-single-1/gh-pages/single_page_v2.jpg "Al Quran Digital Bahasa Indonesia")
+![EQuran.id](https://raw.githubusercontent.com/equran/equran-api/gh-pages/single_page_v2.jpg "Al Quran Digital Bahasa Indonesia")
 ___
 
 ## API Developer
 ___
 
-Berikut ini adalah daftar endpoint API yang tersedia. Sumber utama dari data yang terdapat pada API ini adalah Aplikasi Quran Kementrian Agama Republik Indonesia dan audio murottal Misyari Rasyid Al-'Afasi. Semoga dapat dimanfaatkan sebaik-baiknya.
+Berikut ini adalah daftar [endpoint API](http://equran.id/apidev) yang tersedia. Sumber utama dari data yang terdapat pada [API](http://equran.id/apidev) ini adalah Aplikasi Quran Kementrian Agama Republik Indonesia dan audio murottal Misyari Rasyid Al-'Afasi. Semoga dapat dimanfaatkan sebaik-baiknya.
 
 Saran dan masukan dapat disampaikan ke: equran.id@gmail.com.
 
